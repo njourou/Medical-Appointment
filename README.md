@@ -45,7 +45,7 @@
 4   Messaging Module
    Sends users message to tell them if or not their appointments are approved or to remind them of their scheduled appointments.
 
-## Software Desing Specification
+## Software Design Specification
 
 ### Introduction
 
